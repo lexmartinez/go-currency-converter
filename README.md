@@ -1,8 +1,6 @@
 # go-currency-converter
 :dollar: A Simple Currency Converter CLI written in Go - Powered by freecurrencyconverterapi.com
 
-> Day 8 of #100DaysOfCode Challenge
-
 ## Build Setup
 
 ``` bash
